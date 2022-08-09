@@ -17,4 +17,3 @@ for i in range(36):
     sq(dlina)
     joe.right(10)
     dlina+=5
-
