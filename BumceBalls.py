@@ -16,7 +16,7 @@ border.goto(-300,300)
 border.goto(300,300)
 
 balls =[]
-count = 100
+count = 5
 for i in range(count):
     ball = turtle.Turtle()
     ball.hideturtle()
